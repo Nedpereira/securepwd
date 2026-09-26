@@ -11,7 +11,7 @@
 
 Este é um gerador de senhas aleatórias gratuito que cria senhas seguras e complexas para melhorar a segurança online.
 
-**[Acesse o site do projeto aqui!](https://securepwd.com/)**
+**[Acesse o site do projeto aqui!](https://primekey.netlify.app/)**
 
 ## Funcionalidades
 
